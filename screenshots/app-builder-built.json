@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Holdfast",
+      "hasCanvas": true,
+      "bodyTextLen": 438,
+      "bodyTextHash": "55358072c943c69fe327c8d81153a2aa7e9cf4db4e239090ec964acb11d67498",
+      "bodyTextPrefix": "MARSH ROAD Holdfast Twelve waves walk a single road toward your ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Holdfast",
+      "hasCanvas": true,
+      "bodyTextLen": 438,
+      "bodyTextHash": "55358072c943c69fe327c8d81153a2aa7e9cf4db4e239090ec964acb11d67498",
+      "bodyTextPrefix": "MARSH ROAD Holdfast Twelve waves walk a single road toward your ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
