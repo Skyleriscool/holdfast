@@ -1,6 +1,6 @@
 # Holdfast
 
-A browser tower-defense game. Creeps follow a marsh road from a blight rift to the citadel gate. Place towers on the grass, earn gold from kills, and hold the line through escalating waves.
+A browser tower-defense game with a tower and upgrade system inspired by BTD6. Creeps follow a marsh road from a blight rift to the citadel gate. Place towers on the grass, earn gold from kills, and hold the line through escalating waves.
 
 ## Demo
 
